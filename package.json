@@ -1,0 +1,14 @@
+{
+  "name": "own-store-doc",
+  "version": "1.0.0",
+  "description": "Summary",
+  "private": true,
+  "scripts": {
+    "dev": "retype watch",
+    "build": "retype build"
+  },
+  "keywords": [],
+  "dependencies": {
+    "retypeapp": "^1.10.0"
+  }
+}
